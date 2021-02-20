@@ -1,8 +1,5 @@
 ### Hi I'm Alex 👋
 
-![](https://komarev.com/ghpvc/?username=siansiansu)
-
-
 I'm a site reliability engineer. I come from Taiwan, a beautiful country that I always love with.
 
 - 🔭 I’m currently working on [MoBagel](https://mobagel.com/), a company to build an AutoML platform.
