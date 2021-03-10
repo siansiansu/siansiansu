@@ -1,3 +1,5 @@
+[![mailto](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsiansu@gmail.com)
+
 ### Hi I'm Alex 👋
 
 I'm a site reliability engineer. I come from Taiwan, a beautiful country that I always love with.
