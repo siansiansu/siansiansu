@@ -1,4 +1,4 @@
-### Hi I'm Alex 👋
+### Hi, I'm Alex 👋
 
 I'm a Sr. DevOps / Site Reliability Engineer. I come from Taiwan, a beautiful country that I always love with.
 
