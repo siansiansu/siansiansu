@@ -2,10 +2,10 @@
 
 I'm a site reliability engineer. I come from Taiwan, a beautiful country that I always love with.
 
-- 🔭 I’m currently working on [MoBagel](https://mobagel.com/), a company to build an AutoML platform.
-- 👨‍💻 I’m currently learning golang and system design.
-- 👯 I’m looking to collaborate on web development or golang projects.
-- 😅 Fun fact: I'm very love nature observations, especially for birds!! Follow my instagram for recently observations 📷
+- 🔭  I’m currently working on [MoBagel](https://mobagel.com/), a company to build an AutoML platform.
+- 👨‍ 💻 I’m currently learning golang and system design.
+- 👯  I’m looking to collaborate on web development or golang projects.
+- 😅  Fun fact: I'm very love nature observations, especially for birds!! Follow my instagram for recently observations 📷
 
 I'm looking for a job opportunity of Sr. DevOps and site reliability engineering.
 
