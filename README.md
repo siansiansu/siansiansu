@@ -7,7 +7,7 @@ I'm a site reliability engineer. I come from Taiwan, a beautiful country that I 
 - 👯 I’m looking to collaborate on web development or golang projects.
 - 😅 Fun fact: I'm very love nature observations, especially for birds!! Follow my [instagram](https://www.instagram.com/siansian.bird/) for recently observations 📷
 
-I'm looking for a job opportunity of site reliability engineering.
+I'm looking for a job opportunity of Sr. DevOps and site reliability engineering.
 
 <!--
 **siansiansu/siansiansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
