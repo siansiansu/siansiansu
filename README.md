@@ -1,6 +1,6 @@
 ### Hi I'm Alex 👋
 
-I'm a Sr. DevOps / Site Reliability Engineer (SRE). I come from Taiwan, a beautiful country that I always love with.
+I'm a Sr. DevOps / Site Reliability Engineer. I come from Taiwan, a beautiful country that I always love with.
 
 - 🔭     I’m currently working on [MoBagel](https://mobagel.com/), a company to build an AutoML platform.
 - 👨‍💻  I’m currently learning golang and system design.
