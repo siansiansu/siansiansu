@@ -1,5 +1,3 @@
-[![mailto](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsiansu@gmail.com)
-
 ### Hi I'm Alex 👋
 
 I'm a site reliability engineer. I come from Taiwan, a beautiful country that I always love with.
@@ -11,6 +9,8 @@ I'm a site reliability engineer. I come from Taiwan, a beautiful country that I 
 
 I'm looking for a job opportunity of Sr. DevOps and site reliability engineering.
 
+[![mailto](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsiansu@gmail.com) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/minsian
+)
 <!--
 **siansiansu/siansiansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
