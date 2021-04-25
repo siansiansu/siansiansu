@@ -2,7 +2,7 @@
 
 I'm a Sr. DevOps / Site Reliability Engineer. I come from Taiwan, a beautiful country that I always love with.
 
-- 🔭     I’m currently working on [17Live](https://about.17.live/).
+- 🔭     I’m currently working on [17LIVE](https://about.17.live/).
 - 👨‍💻  I’m currently learning golang and kubernetes.
 - 👯     I’m looking to collaborate on web development or golang projects.
 - 😅     Fun fact: I'm very love nature observations, especially for birds!! Follow my instagram for recently observations 📷
