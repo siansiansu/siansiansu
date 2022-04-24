@@ -1,6 +1,6 @@
 ### Hi, I'm Alex 👋
 
-I'm a DevOps / Site Reliability Engineer (SRE). I come from Taiwan, a beautiful country that I always love with.
+I am a Software Engineer / Site Reliability Engineer. I am from Taiwan, a beautiful country that I always love with.
 
 - 🔭  I’m currently working on [17LIVE](https://about.17.live/).
 - 👨‍💻  I’m currently learning golang and kubernetes.
@@ -8,6 +8,12 @@ I'm a DevOps / Site Reliability Engineer (SRE). I come from Taiwan, a beautiful 
 - 😅  Fun fact: I'm very love nature observations, especially for birds!! Follow my Instagram for my recently observations 📸
 
 I'm looking for a job opportunity of DevOps / SRE and backend development.
+
+<p float="left">
+  <img src="/cka-certified-kubernetes-administrator.png" width="100" />
+  <img src="/cka-certified-kubernetes-administrator.png" width="100" />
+  <img src="/cka-certified-kubernetes-administrator.png" width="100" />
+</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsiansu@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siansian.bird/)
