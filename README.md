@@ -11,8 +11,8 @@ I'm looking for a job opportunity of DevOps / SRE and backend development.
 
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
-  <img src="/cka-certified-kubernetes-administrator.png" width="100" />
-  <img src="/cka-certified-kubernetes-administrator.png" width="100" />
+  <img src="/ckad-certified-kubernetes-application-developer.png" width="100" />
+  <img src="/aws-certified-solutions-architect-associate.png" width="100" />
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minsiansu@gmail.com)
