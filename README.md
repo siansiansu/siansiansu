@@ -1,13 +1,13 @@
 ### Hi, I'm Alex 👋
 
-I am a Software Engineer / Site Reliability Engineer. I am from Taiwan, a beautiful country that I always love with.
+I am a software engineer / site reliability engineer. I am from Taiwan, a beautiful country that I always love with.
 
 - 🔭  I’m currently working on [17LIVE](https://about.17.live/).
 - 👨‍💻  I’m currently learning golang and kubernetes.
 - 👯  I’m looking to collaborate on cloud architecture and golang projects.
 - 😅  Fun fact: I'm very love nature observations, especially for birds!! Follow my Instagram for my recently observations 📸
 
-I'm looking for a job opportunity of DevOps / SRE and backend development.
+I'm looking for a job opportunity of software engineer and site reliability engineer (SRE).
 
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
