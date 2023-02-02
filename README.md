@@ -6,7 +6,7 @@ I am from Taiwan, a beautiful country that I always love with.
 - 👨‍💻  I’m currently learning Go, software architecture and tâi-gí-lô-má-jī (台語羅馬字).
 - 👯  I'm seeking collaboration opportunities on open-source projects pertaining to cloud architecture and Go.
 - 😅  Fun fact: I am passionate about nature observation, particularly birds! Follow my [Instagram](https://www.instagram.com/siansian.bird) to see my latest bird observations 📸!
-- 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)、[離職暗示歌單](https://open.spotify.com/playlist/5HolQ0ew50b3sZPSwNEW3D?si=df2593a74e6c4334)。
+- 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)。
 
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
