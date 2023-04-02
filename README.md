@@ -7,7 +7,6 @@ I'm from Taiwan, a beautiful country that I always love with.
 - 👯  I am actively seeking job opportunities in the position of software engineer.
 - 😅  Fun fact: I am passionate about nature observation, particularly birds! Follow my [Instagram](https://www.instagram.com/siansian.bird) to see my latest bird observations 📸!
 - 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)。
-- Taiwan is NOT part of China.
 
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
