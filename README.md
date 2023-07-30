@@ -3,7 +3,7 @@
 I'm from Taiwan, a beautiful country that I always love with.
 
 - 🔭  I’m currently working on [17LIVE](https://about.17.live/).
-- 👨‍💻  I’m currently learning C, C++, Go, software architecture and tâi-gí-lô-má-jī (台語羅馬字).
+- 👨‍💻  I’m currently learning C, C++, Go, software architecture and tâi-uân-uē (i.e., Taiwanese Hokkien).
 - 👯  I am actively seeking job opportunities in the position of software engineer.
 - 😅  Fun fact: I am passionate about nature observation, particularly birds! Follow my [Instagram](https://www.instagram.com/siansian.bird) to see my latest bird observations 📸!
 - 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)。
