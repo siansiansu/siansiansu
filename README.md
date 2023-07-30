@@ -1,12 +1,12 @@
 ## Hi, I'm Alex 👋
 
-I'm from Taiwan, a beautiful country that I always love with.
+I'm from Taiwan, a breathtakingly beautiful country that has captured my heart indefinitely.
 
-- 🔭  I am currently holding the position of Senior Site Reliability Engineer at [17LIVE](https://about.17.live/).
-- 👨‍💻  I’m currently learning C, C++, Go, software architecture and tâi-uân-uē (i.e., Taiwanese Hokkien).
-- 👯  I am actively seeking job opportunities in the position of software engineer.
-- 😅  Fun fact: I am passionate about nature observation, particularly birds! Follow my [Instagram](https://www.instagram.com/siansian.bird) to see my latest bird observations 📸!
-- 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)。
+- 🔭  I'm currently holding the position of Senior Site Reliability Engineer at [17LIVE](https://about.17.live/).
+- 👨‍💻  I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and tâi-uân-uē (Taiwanese Hokkien).
+- 👯  I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
+- 😅  Fun fact: I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansian.bird) account to catch a glimpse of my latest bird observations 📸!
+- 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)、[離職暗示歌單](https://open.spotify.com/playlist/5HolQ0ew50b3sZPSwNEW3D?si=aaba6d5dc0e7422b)。
 
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
