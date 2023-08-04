@@ -2,7 +2,7 @@
 
 I'm from Taiwan, a breathtakingly beautiful country that has captured my heart indefinitely.
 
-- 🔭  I'm currently holding the position of Senior Site Reliability Engineer at [17LIVE](https://about.17.live/).
+- 🔭  I'm currently holding the position of Senior Software Engineer at [17LIVE](https://about.17.live/).
 - 👨‍💻  I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and tâi-uân-uē (Taiwanese Hokkien).
 - 👯  I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
 - 😅  Fun fact: I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansiansu) account to catch a glimpse of my latest bird observations 📸!
