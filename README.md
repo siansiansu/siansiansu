@@ -11,9 +11,9 @@ I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart 
 
 ## Projects
 
-- [Awesome Taiwanese](https://siansiansu.github.io/oh-tai-gi/): A curated list of resources for learning Taiwanese.
-- [Bird names in Taiwanese](https://siansiansu.github.io/tsiau-a-e-mia/): Learning bird names in Taiwanese language.
-- [nvim](https://github.com/siansiansu/nvim): My personal configuration for Neovim.
+- [Awesome Taiwanese](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese.
+- [Bird names in Taiwanese](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese language.
+- [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
 
 ## Certifications
 - AWS Certified Solutions Architect, November 2021 - November 2024
