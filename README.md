@@ -5,14 +5,14 @@ I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart 
 ## About
 
 - I'm currently holding the position of Senior Software Engineer at [17LIVE](https://about.17.live/).
-- I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and tâi-uân-uē (Taiwanese Hokkien).
+- I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and Taiwanese.
 - I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
-- I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansiansu) account to catch a glimpse of my latest bird observations 📸!
+- I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansiansu) account to catch a glimpse of my latest bird observations!
 
 ## Projects
 
-- [台語學習資源清單](https://siansiansu.github.io/oh-tai-gi/): 這 ê 清單整理誠濟學習台語 ê 資源 Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann.
-- [熟似鳥仔 ê 台語名](https://siansiansu.github.io/tsiau-a-e-mia/): 予大家方便找鳥仔 ê 台語名.
+- [Awesome Taiwanese](https://siansiansu.github.io/oh-tai-gi/): A curated list of resources for learning Taiwanese.
+- [Bird names in Taiwanese](https://siansiansu.github.io/tsiau-a-e-mia/): Learning bird names in Taiwanese language.
 - [nvim](https://github.com/siansiansu/nvim): My personal configuration for Neovim.
 
 ## Certifications
