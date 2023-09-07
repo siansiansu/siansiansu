@@ -11,8 +11,8 @@ I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart 
 
 ## Projects
 
-- [Oh Tâi-gí](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese. Please note that this website primarily uses Taiwanese and Taiwanese Mandarin.
-- [Tsiáu-á ê miâ](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese. Please note that this website primarily uses Taiwanese and Taiwanese Mandarin.
+- [Oh Tâi-gí](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese.
+- [Tsiáu-á ê miâ](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese.
 - [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
 
 ## Certifications
