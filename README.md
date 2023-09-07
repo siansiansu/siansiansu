@@ -1,13 +1,39 @@
-## Hi, I'm Alex 👋
+# Hello!
 
-I'm from Taiwan, a breathtakingly beautiful country that has captured my heart indefinitely.
+I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart indefinitely.
 
-- 🔭  I'm currently holding the position of Senior Software Engineer at [17LIVE](https://about.17.live/).
-- 👨‍💻  I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and tâi-uân-uē (Taiwanese Hokkien).
-- 👯  I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
-- 😅  Fun fact: I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansiansu) account to catch a glimpse of my latest bird observations 📸!
-- 🔊 Spotify Playlist: [台語歌 tâi-gí-kua](https://open.spotify.com/playlist/0F9D73jVBoMuPPT3Ypcpde?si=8a25a3a63c1b46d3)、[離職暗示歌單](https://open.spotify.com/playlist/5HolQ0ew50b3sZPSwNEW3D?si=aaba6d5dc0e7422b)。
+## About
 
+- I'm currently holding the position of Senior Software Engineer at [17LIVE](https://about.17.live/).
+- I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and tâi-uân-uē (Taiwanese Hokkien).
+- I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
+- I have a profound passion for nature observation, with a special focus on avian wonders! Check out my [Instagram](https://www.instagram.com/siansiansu) account to catch a glimpse of my latest bird observations 📸!
+
+## Projects
+
+- [台語學習資源清單](https://siansiansu.github.io/oh-tai-gi/): 這 ê 清單整理誠濟學習台語 ê 資源 Tsit-ê tshing-tuann tsíng-lí tsiânn-tsē ha̍k-si̍p Tâi-gí ê tshing-tuann.
+- [熟似鳥仔 ê 台語名](https://siansiansu.github.io/tsiau-a-e-mia/): 予大家方便找鳥仔 ê 台語名.
+- [nvim](https://github.com/siansiansu/nvim): My personal configuration for Neovim.
+
+## Certifications
+- AWS Certified Solutions Architect, November 2021 - November 2024
+- Certified Kubernetes Administrator, April 2022 - April 2025
+- Certified Kubernetes Application Developer, April 2022 - April 2025
+
+## Contact Me
+You can reach me at minsiansu@gmail.com.
+
+
+
+
+
+
+
+
+
+
+
+<!--
 <p float="left">
   <img src="/cka-certified-kubernetes-administrator.png" width="100" />
   <img src="/ckad-certified-kubernetes-application-developer.png" width="100" />
@@ -19,7 +45,6 @@ I'm from Taiwan, a breathtakingly beautiful country that has captured my heart i
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/siansiansu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minsian)
 
-<!--
 **siansiansu/siansiansu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
