@@ -11,14 +11,15 @@ I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart 
 
 ## Projects
 
-- [Awesome Taiwanese](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese.
-- [Bird names in Taiwanese](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese language.
+- [Oh Tâi-gí](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese. Please note that this website primarily uses Taiwanese and Taiwanese Mandarin.
+- [Tsiáu-á ê miâ](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese. Please note that this website primarily uses Taiwanese and Taiwanese Mandarin.
 - [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
 
 ## Certifications
 - AWS Certified Solutions Architect, November 2021 - November 2024
 - Certified Kubernetes Administrator, April 2022 - April 2025
 - Certified Kubernetes Application Developer, April 2022 - April 2025
+- kàu-io̍k-pōo Bân-lâm-gú Gú-giân Lîng-li̍k Jīn-tsìng - tshoo-kip
 
 ## Contact Me
 You can reach me at minsiansu@gmail.com.
