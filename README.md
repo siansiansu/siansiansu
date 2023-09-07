@@ -7,7 +7,7 @@ I'm Alex from Taiwan, a country whose breathtaking beauty has captured my heart 
 - I'm currently holding the position of Senior Software Engineer at [17LIVE](https://about.17.live/).
 - I'm actively seeking exciting job opportunities as a software engineer and Site Reliability Engineer.
 - I'm currently engaged in a diverse learning journey, encompassing C, C++, Go, software architecture, and Taiwanese.
-- I have a profound passion for nature observation, with a special focus on avian wonders! Expore my [Instagram](https://www.instagram.com/siansiansu) for the latest bird observations!
+- I have a profound passion for nature observation, with a special focus on avian wonders! Expore my [Instagram](https://www.instagram.com/siansiansu) for more!
 
 ## Projects
 
