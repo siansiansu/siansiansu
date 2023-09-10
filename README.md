@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Bîn-hiân from Taiwan, a country whose breathtaking beauty has captured my heart indefinitely.
+I'm Min-Sian from Taiwan, a country whose breathtaking beauty has captured my heart indefinitely.
 
 ## About
 
