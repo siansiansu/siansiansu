@@ -18,20 +18,11 @@ I'm Min-Sian from Taiwan, a country whose breathtaking beauty has captured my he
 - AWS Certified Solutions Architect, November 2021 - November 2024
 - Certified Kubernetes Administrator, April 2022 - April 2025
 - Certified Kubernetes Application Developer, April 2022 - April 2025
-- kàu-io̍k-pōo Bân-lâm-gú Gú-giân Lîng-li̍k Jīn-tsìng - tshoo-kip
+- kàu-io̍k-pōo Bân-lâm-gú Gú-giân Lîng-li̍k Jīn-tsìng - tshoo-kip, August 2022
+- CS50: Introduction to Computer Science, October 2023
 
 ## Contact Me
 You can reach me at minsiansu@gmail.com.
-
-
-
-
-
-
-
-
-
-
 
 <!--
 <p float="left">
