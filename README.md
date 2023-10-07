@@ -13,6 +13,7 @@ I'm Min-Sian from Taiwan, a country whose breathtaking beauty has captured my he
 - [Oh Tâi-gí](https://siansiansu.github.io/oh-tai-gi/) - A curated list of resources for learning Taiwanese.
 - [Tsiáu-á ê miâ](https://siansiansu.github.io/tsiau-a-e-mia/) - Learning bird names in Taiwanese.
 - [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
+- [go-ebird](https://github.com/siansiansu/go-ebird) - go-ebird is a Go client library designed for the eBird API.
 
 ## Certifications
 - AWS Certified Solutions Architect, November 2021 - November 2024
