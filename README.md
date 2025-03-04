@@ -8,14 +8,6 @@ I'm Min-Sian from Taiwan, a country whose breathtaking beauty has captured my he
 - I'm currently engaged in a diverse learning journey, encompassing C / C++, Go, software architecture, and Taiwanese.
 - I have a profound passion for nature observation, with a special focus on avian wonders! Expore my [Instagram](https://www.instagram.com/siansiansu) for more!
 
-## Projects
-
-- [Oh Tâi-gí](https://hackmd.io/@siansiansu/SyeMAoPhp) - A curated list of resources for learning Taiwanese.
-- [Tsiáu-á ê miâ](https://hackmd.io/@siansiansu/Hy4VzNvha) - Learning bird names in Taiwanese.
-- [nvim](https://github.com/siansiansu/nvim) - My personal configuration for Neovim.
-- [go-ebird](https://github.com/siansiansu/go-ebird) - go-ebird is a Go client library designed for the eBird API.
-- [go-xeno](https://github.com/siansiansu/go-xeno) - go-xeno is a CLI tool designed for the Xeno-Canto.
-
 ## Certifications
 - AWS Certified Solutions Architect, November 2021
 - Certified Kubernetes Administrator, April 2022
